@@ -1,0 +1,13 @@
+{
+    "products": [
+        {
+            "id": "",
+            "gender": "",
+            "name": "",
+            "price": 0,
+            "imgSrc":"../imgs/",
+            "type":"",
+            "description":""
+        }
+    ]
+}
